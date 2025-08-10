@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="7_waitgroups" type="GoApplicationRunConfiguration" factoryName="Go Application">
+    <module name="go125" />
+    <working_directory value="$PROJECT_DIR$" />
+    <kind value="FILE" />
+    <package value="go125" />
+    <directory value="$PROJECT_DIR$" />
+    <filePath value="|$PROJECT_DIR$/7_waitgroup_run_example.go" />
+    <method v="2" />
+  </configuration>
+</component>

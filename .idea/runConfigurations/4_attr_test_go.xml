@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="4_attr_test.go" type="GoTestRunConfiguration" factoryName="Go Test" nameIsGenerated="true">
+    <module name="go125" />
+    <working_directory value="$PROJECT_DIR$/tests" />
+    <root_directory value="$PROJECT_DIR$" />
+    <kind value="FILE" />
+    <package value="go125/tests" />
+    <directory value="$PROJECT_DIR$" />
+    <filePath value="$PROJECT_DIR$/tests/4_attr_test.go" />
+    <framework value="gotest" />
+    <method v="2" />
+  </configuration>
+</component>
